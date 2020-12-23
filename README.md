@@ -1,1 +1,2 @@
-# CnnsWithSVG-
+# Convolutional Neural Networks with SVG
+
